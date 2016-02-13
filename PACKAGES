@@ -1,2 +1,2 @@
-grafana/grafana -n grafana2 -b x2.6.x
+grafana/grafana -n grafana2 -b v2.6.x
 alexanderzobnin/grafana-zabbix
