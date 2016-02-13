@@ -1,5 +1,2 @@
-ongaeshi/milkode 
-ongaeshi/milkode -n milkode-develop -b develop
-ongaeshi/gomilk
-ongaeshi/milkode-on-heroku
-
+grafana/grafana -n grafana2 -b x2.6.x
+alexanderzobnin/grafana-zabbix
